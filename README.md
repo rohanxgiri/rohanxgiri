@@ -12,9 +12,9 @@
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rohan--Giri--Dev-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Rohan-Giri-Dev)
+[![GitHub](https://img.shields.io/badge/GitHub-rohanxgiri-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/rohanxgiri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Giri-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000)](https://www.linkedin.com/in/rohan-giri-945718324/)
-[![Status](https://img.shields.io/badge/Status-Building%20Daily-F26522?style=for-the-badge&labelColor=000000)](https://github.com/Rohan-Giri-Dev)
+[![Status](https://img.shields.io/badge/Status-Building%20Daily-F26522?style=for-the-badge&labelColor=000000)](https://github.com/rohanxgiri)
 
 </div>
 
@@ -79,11 +79,11 @@ I build full-stack applications while continuously improving my skills through h
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohanxgiriv&show_icons=true&hide_border=true&bg_color=000000&title_color=F26522&text_color=E8E8E8&icon_color=62C878" alt="Rohan Giri GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohanxgiri&show_icons=true&hide_border=true&bg_color=000000&title_color=F26522&text_color=E8E8E8&icon_color=62C878" alt="Rohan Giri GitHub stats" />
 
 <br />
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanxgiriv&bg_color=000000&color=999999&line=F26522&point=E8E8E8&area=true&area_color=F26522&hide_border=true" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanxgiri&bg_color=000000&color=999999&line=F26522&point=E8E8E8&area=true&area_color=F26522&hide_border=true" alt="Contribution activity graph" />
 
 </div>
