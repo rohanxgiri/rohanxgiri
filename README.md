@@ -75,15 +75,37 @@ I build full-stack applications while continuously improving my skills through h
 
 ---
 
+---
+
 ## GITHUB SIGNAL
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohanxgiri&show_icons=true&hide_border=true&bg_color=000000&title_color=F26522&text_color=E8E8E8&icon_color=62C878" alt="Rohan Giri GitHub stats" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile/signal-field-wide-dark.svg"
+  />
+  <img
+    src="./profile/signal-field-wide-light.svg"
+    width="100%"
+    alt="Rohan Giri GitHub statistics"
+  />
+</picture>
 
 <br />
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanxgiri&bg_color=000000&color=999999&line=F26522&point=E8E8E8&area=true&area_color=F26522&hide_border=true" alt="Contribution activity graph" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile/activity-consistency-wide-dark.svg"
+  />
+  <img
+    src="./profile/activity-consistency-wide-light.svg"
+    width="100%"
+    alt="Rohan Giri GitHub activity"
+  />
+</picture>
 
 </div>
