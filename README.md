@@ -77,35 +77,4 @@ I build full-stack applications while continuously improving my skills through h
 
 ---
 
-## GITHUB SIGNAL
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile/signal-field-wide-dark.svg"
-  />
-  <img
-    src="./profile/signal-field-wide-light.svg"
-    width="100%"
-    alt="Rohan Giri GitHub statistics"
-  />
-</picture>
-
-<br />
-<br />
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile/activity-consistency-wide-dark.svg"
-  />
-  <img
-    src="./profile/activity-consistency-wide-light.svg"
-    width="100%"
-    alt="Rohan Giri GitHub activity"
-  />
-</picture>
-
-</div>
